@@ -1,0 +1,59 @@
+/* 
+	background-color: #00C3C7;
+	 */
+	 .mynav{
+		background-color: #00C3C7;
+		color: #00C3C7;
+	 }
+	 .logoajout{
+		 text-align: center;
+	 }
+	 .bg-white {
+		background-color: #00C3C7!important;
+		text-decoration: black;
+		font-size: 18px;
+	}
+	.navbar-light .navbar-nav .nav-link {
+		color: rgba(0,0,0,.5);
+		padding-right: 42px;
+	}
+	.connect{
+		text-align: left;
+		font-size: 18px;
+
+	}
+	.imgagent{
+		width: 305px;
+		height: 242px;
+		float: left;
+		margin-left: 564px;
+		margin-top: -248px;
+	}
+	.infosagent{
+		margin-top: 100px;
+		font-size: 21px;
+		width: 185px;
+
+	}
+	.card-header {
+		
+		font-size: 23px;
+	}
+	.card-body1 {
+		flex: 1 1 auto;
+		padding: 1.25rem;
+		background-color: #00C3C7;
+	}
+
+	.bg{
+		background-image: url("/img/background.jpg");
+/* 		background:linear-gradient(to bottom, rgba(59, 52, 47, 0.8) 0%, rgba(68, 60, 55, 0.8) 100%),url("/img/background.jpg");
+ */		background-repeat: no-repeat;
+		background-size: cover;
+	}
+	.bgconn{
+		background-image: url("/img/background.jpg");
+		background:linear-gradient(to bottom, rgba(59, 52, 47, 0.8) 0%, rgba(68, 60, 55, 0.8) 100%),url("/img/background.jpg");
+		background-repeat: no-repeat;
+		background-size: cover;
+	}
